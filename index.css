@@ -64,13 +64,13 @@ body{
 }
 
 #container{
-    /* display: inline-block; */
+   
     margin-top: 10px;
     border-radius: 10px;
     float: right;
-    /* margin-left: 20px; */
+  
     border: 2px solid rebeccapurple;
-    width:700px;
+    width:800px;
     height: 830px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: white;
